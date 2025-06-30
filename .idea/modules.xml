@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCourse2025/JavaCourse2025.iml" filepath="$PROJECT_DIR$/JavaCourse2025/JavaCourse2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodChallenge/MethodChallenge.iml" filepath="$PROJECT_DIR$/MethodChallenge/MethodChallenge.iml" />
+    </modules>
+  </component>
+</project>
