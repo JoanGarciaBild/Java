@@ -7,15 +7,14 @@ public class Main {
     }
 
     public static int calculateScore(int score){
-        System.out.println("Unnamed played scored " + score + " points");
-        return score * 1000;
+        return calculateScore("Anonimous", 100);
     }
 
     public static int calculateScore(){
         System.out.println("No player name, no player score.");
         return 0;
     }
-    
+
 
     public static void main(String[] args) {
 
